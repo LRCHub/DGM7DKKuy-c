@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Cat's Meow（feat. ケンモチヒデフミ）",
+  "base_artist": "電音部、ケンモチヒデフミ、黒鉄たま (CV: 秋奈)",
+  "createdAt": "2026-01-13T16:48:49.309605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cat's Meow (feat. Kenmochi Hidefumi)",
+      "artist": "DENONBU, Kenmochi Hidefumi, Tama Kurogane (CV: Akina)",
+      "has_synced": true,
+      "path": "select/01_Cat's_Meow_(feat._Kenmochi_Hidefumi)_DENONBU,_Kenmochi_Hidefumi,_Tama_Kurogane_(CV__Akina).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cat's Meow (feat.Kenmochi Hidefumi)[Instrumental]",
+      "artist": "DENONBU,Kenmochi Hidefumi,Tama Kurogane (CV: Akina)",
+      "has_synced": false,
+      "path": "select/02_Cat's_Meow_(feat.Kenmochi_Hidefumi)[Instrumental]_DENONBU,Kenmochi_Hidefumi,Tama_Kurogane_(CV__Akina).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cat's Meow (feat.ケンモチヒデフミ)",
+      "artist": "電音部、ケンモチヒデフミ、黒鉄たま (CV: 秋奈)",
+      "has_synced": false,
+      "path": "select/pl_01_Cat's_Meow_(feat.ケンモチヒデフミ)_電音部、ケンモチヒデフミ、黒鉄たま_(CV__秋奈).txt"
+    }
+  ]
+}
